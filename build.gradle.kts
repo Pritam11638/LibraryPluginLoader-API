@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.github.Pritam11638"
-version = "v1.21-1.0.0-BETA.1"
+version = "v1.21-1.0.0-BETA.2"
 
 repositories {
     mavenCentral()
