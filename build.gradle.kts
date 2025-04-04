@@ -3,8 +3,8 @@ plugins {
     id("maven-publish")
 }
 
-group = "com.github.Pritam11638"
-version = "v1.21-1.0.0-BETA.2"
+group = "com.github.pritam11638"
+version = "v1.21-1.0.0-BETA.3"
 
 repositories {
     mavenCentral()
